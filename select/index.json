@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "大正浪漫",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-04T16:01:57.056304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大正浪漫",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_大正浪漫_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大正浪漫",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_大正浪漫_YOASOBI.txt"
+    }
+  ]
+}
